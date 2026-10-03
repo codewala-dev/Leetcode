@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/codewala-dev/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/codewala-dev/Leetcode/tree/master/0016-3sum-closest) |
+| [0713-subarray-product-less-than-k](https://github.com/codewala-dev/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -16,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/codewala-dev/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/codewala-dev/Leetcode/tree/master/0016-3sum-closest) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/codewala-dev/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/codewala-dev/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/codewala-dev/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
