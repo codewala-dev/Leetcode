@@ -1,5 +1,5 @@
-class Solution:
-    def fourSum(self, nums: list[int], target: int) -> list[list[int]]:
+class Solution(object):
+    def fourSum(self, nums, target):
         nums.sort()
         n = len(nums)
         res = []
