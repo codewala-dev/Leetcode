@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/codewala-dev/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/codewala-dev/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/codewala-dev/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0844-backspace-string-compare](https://github.com/codewala-dev/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -60,4 +61,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/codewala-dev/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/codewala-dev/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## String
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/codewala-dev/Leetcode/tree/master/0844-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/codewala-dev/Leetcode/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/codewala-dev/Leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
