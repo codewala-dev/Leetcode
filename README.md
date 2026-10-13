@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/codewala-dev/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/codewala-dev/Leetcode/tree/master/0075-sort-colors) |
 | [0713-subarray-product-less-than-k](https://github.com/codewala-dev/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [3833-count-dominant-indices](https://github.com/codewala-dev/Leetcode/tree/master/3833-count-dominant-indices) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/codewala-dev/Leetcode/tree/master/0844-backspace-string-compare) |
+## Enumeration
+|  |
+| ------- |
+| [3833-count-dominant-indices](https://github.com/codewala-dev/Leetcode/tree/master/3833-count-dominant-indices) |
 <!---LeetCode Topics End-->
