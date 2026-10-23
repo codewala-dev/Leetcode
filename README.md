@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/codewala-dev/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/codewala-dev/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/codewala-dev/Leetcode/tree/master/0075-sort-colors) |
+| [0209-minimum-size-subarray-sum](https://github.com/codewala-dev/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/codewala-dev/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [3833-count-dominant-indices](https://github.com/codewala-dev/Leetcode/tree/master/3833-count-dominant-indices) |
 ## Two Pointers
@@ -30,14 +31,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/codewala-dev/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/codewala-dev/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/codewala-dev/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/codewala-dev/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/codewala-dev/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/codewala-dev/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Quicksort
 |  |
